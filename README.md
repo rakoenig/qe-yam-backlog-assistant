@@ -1,4 +1,4 @@
-# QE Tools Backlog Status
+# QE Yam Backlog Status
 
 This is the dashboard for [QE Yam](https://progress.opensuse.org/projects/qe-yast/wiki/Wiki).
 
