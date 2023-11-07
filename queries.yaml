@@ -1,5 +1,5 @@
-api: https://progress.opensuse.org/issues.json
-web: https://progress.opensuse.org/issues
+api: https://progress.opensuse.org/projects/qe-yast/issues.json
+web: https://progress.opensuse.org/projects/qe-yast/issues
 team: QE Yam
 url: https://progress.opensuse.org/projects/qe-yast/wiki
 queries:
