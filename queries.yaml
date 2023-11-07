@@ -15,3 +15,5 @@ queries:
     query: query_id=872
     min: 10
     max: 40
+  - title: QE Yam closed in the last 7 days
+    query: query_id=875
