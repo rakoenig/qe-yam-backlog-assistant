@@ -5,4 +5,13 @@ url: https://progress.opensuse.org/projects/qe-yast/wiki
 queries:
   - title: QE Yam Backlog
     query: query_id=866
-    max: 64
+    max: 90
+    min: 30
+  - title: QE Yam Workable issues
+    query: query_id=869
+    min: 30
+    max: 50
+  - title: QE Yam issues IN_PROGRESS
+    query: query_id=872
+    min: 10
+    max: 40
