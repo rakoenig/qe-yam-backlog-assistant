@@ -1,58 +1,8 @@
 api: https://progress.opensuse.org/issues.json
 web: https://progress.opensuse.org/issues
-team: QE Tools
-url: https://progress.opensuse.org/projects/qa/wiki/Tools
+team: QE Yam
+url: https://progress.opensuse.org/projects/qe-yast/wiki
 queries:
-  - title: Overall Backlog
-    query: query_id=230
+  - title: QE Yam Backlog
+    query: query_id=866
     max: 64
-  - title: Next
-    query: query_id=794
-    max: 64
-  - title: Workable Backlog
-    query: query_id=478
-    max: 39
-    min: 11
-  - title: Exceeding Due Date
-    query: query_id=514
-    max: 0
-  - title: Untriaged QA
-    query: query_id=576&project_id=115
-    max: 0
-  - title: Untriaged Tools Tagged
-    query: query_id=481
-    max: 0
-  - title: SLA immediate (<1 day)
-    query: query_id=542
-    max: 0
-  - title: SLA urgent (<1 week)
-    query: query_id=543
-    max: 0
-  - title: SLA high (<1 month)
-    query: query_id=544
-    max: 0
-  - title: SLA normal (<1 year)
-    query: query_id=545
-    max: 0
-  - title: SLA no imm/urg blocked
-    query: query_id=821
-    max: 0
-  - title: SLO urgent (<1 day)
-    query: query_id=824
-    max: 0
-  - title: SLO high (<1 week)
-    query: query_id=827
-    max: 0
-  - title: SLO normal (<1 month)
-    query: query_id=830
-    max: 0
-  - title: In Progress
-    query: query_id=505
-    max: 7
-    min: 1
-  - title: In Feedback
-    query: query_id=520
-    max: 10
-    min: 1
-  - title: Closed yesterday
-    query: query_id=773
