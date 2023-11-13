@@ -7,13 +7,25 @@ queries:
     query: query_id=866
     max: 90
     min: 30
-  - title: QE Yam Workable issues
+  - title: Workable issues
     query: query_id=869
     min: 30
     max: 50
-  - title: QE Yam issues IN_PROGRESS
+  - title: Issues IN_PROGRESS
     query: query_id=872
     min: 10
     max: 40
-  - title: QE Yam closed in the last 7 days
+  - title: Priority Immediate, no updates for 1 day
+    query: query_id=893
+    max: 0
+  - title: Priority Urgent, no update since 7 days
+    query: query_id=890
+    max: 0
+  - title: Priority High, no updates last 4 weeks
+    query: query_id=884
+    max: 0
+  - title: Priority low & normal, no update for 1 year
+    query: query_id=887
+    max: 0
+  - title: Closed in the last 7 days
     query: query_id=875
