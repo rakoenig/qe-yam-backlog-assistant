@@ -15,6 +15,9 @@ queries:
     query: query_id=872
     min: 10
     max: 40
+  - title: Blocked issues
+    query: query_id=903
+    max: 0
   - title: Priority Immediate, no updates for 1 day
     query: query_id=893
     max: 0
