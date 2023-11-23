@@ -7,6 +7,10 @@ queries:
     query: query_id=866
     max: 90
     min: 30
+  - title: QE Yam new issues
+    query: query_id=911
+    min: 50
+    max: 150
   - title: Workable issues
     query: query_id=869
     min: 30
