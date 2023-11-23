@@ -30,5 +30,9 @@ queries:
   - title: Priority low & normal, no update for 1 year
     query: query_id=887
     max: 0
-  - title: Closed in the last 7 days
+  - title: Resolved yesterday
     query: query_id=875
+  - title: Closed yesterday
+    query: query_id=905
+  - title: Rejected yesterday
+    query: query_id=908
