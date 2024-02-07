@@ -3,14 +3,8 @@ web: https://progress.opensuse.org/projects/qe-yast/issues
 team: QE Yam
 url: https://progress.opensuse.org/projects/qe-yast/wiki
 queries:
-  - title: QE Yam Backlog
-    query: query_id=866
-    max: 90
-    min: 30
-  - title: QE Yam new issues
-    query: query_id=911
-    min: 50
-    max: 150
+  - title: QE Yam new issues in the last week
+    query: query_id=976
   - title: Workable issues
     query: query_id=869
     min: 30
