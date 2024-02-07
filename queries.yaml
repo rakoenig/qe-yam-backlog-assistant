@@ -3,7 +3,7 @@ web: https://progress.opensuse.org/projects/qe-yast/issues
 team: QE Yam
 url: https://progress.opensuse.org/projects/qe-yast/wiki
 queries:
-  - title: QE Yam new issues in the last week
+  - title: QE Yam new actions per day
     query: query_id=976
   - title: Workable issues
     query: query_id=869
