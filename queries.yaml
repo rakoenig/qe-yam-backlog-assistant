@@ -36,3 +36,9 @@ queries:
     query: query_id=905
   - title: Rejected yesterday
     query: query_id=908
+  - title: Softfailures workable
+    query: query_id=979
+  - title: Softfailures in progress
+    query: query_id=982
+  - title: Softfailures resovled
+    query: query_id=985
